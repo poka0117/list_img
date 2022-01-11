@@ -1,0 +1,6 @@
+li{
+    list-style: none;
+    background: url(image.png) no-repeat;
+    background-size: 20px 20px;
+    padding-left: 20px;
+}
